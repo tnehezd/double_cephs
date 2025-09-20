@@ -1,0 +1,26 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+.env/
+.envrc
+
+# Logs and temporary files
+*.log
+*.out
+*.tmp
+*.bak
+
+
+# Jupyter notebooks
+*.ipynb
+.ipynb_checkpoints/
+
