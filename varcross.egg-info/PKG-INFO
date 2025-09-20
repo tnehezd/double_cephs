@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: varcross
+Version: 0.1.0
+Summary: Modular pipeline for Gaia–OGLE variable star cross-analysis
+Author: Dóra Tarczay-Nehéz
+Requires-Python: >=3.7
+Requires-Dist: astroquery
+Requires-Dist: astropy
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: pandas
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
