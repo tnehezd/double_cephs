@@ -1,8 +1,0 @@
-setup.py
-varcross/__init__.py
-varcross/simbad_lookup.py
-varcross.egg-info/PKG-INFO
-varcross.egg-info/SOURCES.txt
-varcross.egg-info/dependency_links.txt
-varcross.egg-info/requires.txt
-varcross.egg-info/top_level.txt
